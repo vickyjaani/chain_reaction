@@ -4,7 +4,6 @@ Chain Reaction multipayer game to demostrate the usage and applications of Data 
 
 The game uses the some of the concepts of the basic data structures such as:
 1. Linked List
-1. Trees
 1. Graphs
 
 Some of the libraries we used besides the common iostream and conio libraries:
